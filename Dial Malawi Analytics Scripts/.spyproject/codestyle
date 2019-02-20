@@ -1,0 +1,5 @@
+[codestyle]
+indentation = True
+
+[main]
+version = 0.1.0
